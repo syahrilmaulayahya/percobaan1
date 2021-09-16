@@ -16,5 +16,8 @@ func main() {
 	fmt.Println("Hello worldA")
 	fmt.Println("Hello worldA")
 	fmt.Println("Hello worldA")
+	fmt.Println("Hello worldB")
+	fmt.Println("Hello worldB")
+	fmt.Println("Hello worldB")
 
 }
