@@ -9,6 +9,12 @@ func main() {
 	fmt.Println("Hello worldA")
 
 	fmt.Println("Hello WorldB")
+
 	fmt.Println("Hellow WorldA bukan dari stash")
+	fmt.Println("Hello worldA")
+	fmt.Println("Hello worldA")
+	fmt.Println("Hello worldA")
+	fmt.Println("Hello worldA")
+	fmt.Println("Hello worldA")
 
 }
